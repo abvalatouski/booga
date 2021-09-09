@@ -13,8 +13,10 @@ $ make measure PROC=vga/fill_screen
 8
 ```
 
-### Run an example (TODO)
+### Run an example
 
 ```console
 $ make example NAME=amogus
 ```
+
+![QEMU screenshot](img/amogus.png?raw=true)
