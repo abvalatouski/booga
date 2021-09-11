@@ -28,6 +28,7 @@ mov ds, ax
 
 mov ax, VGA_PICTURE_SEGMENT
 mov es, ax
+
 ; body
 mov al, COLOR_GRAY
 mov bx, 90
