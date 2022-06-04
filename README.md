@@ -19,4 +19,6 @@ $ make measure PROC=vga/fill_screen
 $ make example NAME=amogus
 ```
 
-![QEMU screenshot](img/amogus.png?raw=true)
+It works on real machines, BTW! 😀
+
+![Photo of real computer launching the bootloader.](img/amogus.jpg?raw=true)
